@@ -8,7 +8,7 @@ The basic Algorithm that works underneath to specify Faces is a self-implemented
 
 ## How to use:
 
-1. Run the https://github.com/iyuvrajsha/Face_Recognition_project/blob/main/base/DetectFace.py file.
+1. Run the base/DetectFace.py file.
 2. When the code Runs it asks for 3 opltions ie. :
     i) To add new Data.
     ii)To predict.
